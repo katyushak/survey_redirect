@@ -1,0 +1,8 @@
+body {
+    font-size:100%; 
+}
+
+p {
+    font-size: 0.875em; /* If the baseline is 16px, this will scale the font to 14px */
+    line-height: 1em;  /* This keeps the line height proportional to the font size */
+}
